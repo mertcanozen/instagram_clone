@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+nav.setting {
+  height: 54px;
+  background-color: white;
+}
